@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/94098023/214331382-668a9233-a4a2-47ab-b51b-60c0722b19bd.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/94098023/214331382-668a9233-a4a2-47ab-b51b-60c0722b19bd.png" width="800" alt="Laravel Logo"></a></p>
 
 ## Tentang Projek
 
