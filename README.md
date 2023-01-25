@@ -12,7 +12,13 @@ Beberapa kebutuhan fungsional pada sistem ini adalah
 8. Sistem mampu menampilkan hasil penempatan PLP
 
 Terdapat 6 role pada sistem ini yaitu:
-
+List User:
+1. dwi@student.ub.ac.id (Mahasiswa)
+2. admin@gmail.com (Admin)
+3. koorprodi@ub.ac.id (Koordinator Prodi)
+4. kaprodi@ub.ac.id (Ketua Prodi)
+5. koorsmk@sch.id (Koordinator SMK)
+6. kepseksmk@sch.id (Kepala Sekolah)
 
 ## Dokumentasi Projek
 
