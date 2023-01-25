@@ -21,8 +21,12 @@ List User:
 6. kepseksmk@sch.id (Kepala Sekolah)
 
 ## Dokumentasi Projek
+Sistem mampu menampilkan hasil penempatan PLP
+<img src ="https://user-images.githubusercontent.com/94098023/214572403-0bd5f426-88fc-41d0-a425-1ee52c9953c9.png" width="800px">
+## Contributing
 
-
+Sistem mampu pengolahan data SMK untuk penempatan PLP
+<img src ="https://user-images.githubusercontent.com/94098023/214572403-0bd5f426-88fc-41d0-a425-1ee52c9953c9.png" width="800px">
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
